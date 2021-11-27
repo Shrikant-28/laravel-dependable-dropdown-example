@@ -23,7 +23,7 @@ $ php artisan serve
 <ul>
     <li>You will receive an email after configuring the above parameter.</li>
 </ul>
-![image](https://user-images.githubusercontent.com/59720723/143690024-1bf44b43-fb09-4d47-bdac-d8aab8a1b6e3.png)
+<img src="https://user-images.githubusercontent.com/59720723/143690024-1bf44b43-fb09-4d47-bdac-d8aab8a1b6e3.png" />
 
 
  
