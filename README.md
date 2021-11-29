@@ -15,7 +15,7 @@
 3. 
 <pre>
 $ composer update
-$ php artisan migrate
+Run <b>DB_Script/sar_dump.sql</b> file
 $ php artisan serve
 </pre>
 
